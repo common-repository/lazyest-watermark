@@ -1,0 +1,64 @@
+#icon-watermark {
+  background: url('images/watermark.png') no-repeat scroll top left transparent;
+}
+
+#watermark_position {
+	border: 1px solid #dfdfdf;
+	float:left;
+	margin-right:10px;
+}
+
+#watermark_position td {
+	border:  1px solid transparent;
+}
+
+#watermark_position.selected, #watermark_position td.selected {
+	background-color: lightYellow;
+	border: 1px solid #e6db55 !important;
+}
+
+.farbtastic {
+	position:absolute;
+	z-index: 1000;
+	background: #eee;
+	border: 1px solid #ccc;
+}
+
+#watermark_text {
+	width: 30%;
+	height:60px;
+}
+
+#textcolorpicker, #outlinecolorpicker, #bordercolorpicker {
+	display: none;
+}
+
+#example_cell {
+	height:480px;
+	width:640px;
+	overflow:hidden;
+	position:fixed; 
+	display:none;
+	background: #fff;
+	-moz-box-shadow: 5px 5px 5px #aaa;
+	-webkit-box-shadow: 5px 5px 5px #aaa;
+	box-shadow: 5px 5px 5px #aaa;
+}
+
+#image_example {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index:100;
+}
+
+#watermark_example {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index:200;
+}
+
+#preview_button {
+	margin-left:20px;
+}

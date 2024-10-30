@@ -1,0 +1,309 @@
+# Copyright (C) 2012 Brimosoft
+# This file is distributed under the same license as the Lazyest Watermark package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lazyest Watermark 0.3.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/lazyest-watermark\n"
+"POT-Creation-Date: 2012-07-06 08:07:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/settings.php:19
+msgid "Add Watermarks to your images"
+msgstr ""
+
+#: inc/settings.php:37 inc/settings.php:126 lazyest-watermark.php:169
+msgid "Watermark Settings"
+msgstr ""
+
+#: inc/settings.php:47 inc/settings.php:132 lazyest-watermark.php:167
+msgid "Watermark"
+msgstr ""
+
+#: inc/settings.php:48
+msgid "Image"
+msgstr ""
+
+#: inc/settings.php:61
+msgid "Enable Watermarks"
+msgstr ""
+
+#: inc/settings.php:66
+msgid "Enable watermarks on your images"
+msgstr ""
+
+#: inc/settings.php:123
+msgid ""
+"Watermarking your originals will remove Geo Data from your images. You "
+"cannot re-read Geo Data in your Folder Manager screen"
+msgstr ""
+
+#: inc/settings.php:136
+msgid "Slides"
+msgstr ""
+
+#: inc/settings.php:137
+msgid "Original images and Slides"
+msgstr ""
+
+#: inc/settings.php:144
+msgid "Type of watermark "
+msgstr ""
+
+#: inc/settings.php:148
+msgid "Outlined text"
+msgstr ""
+
+#: inc/settings.php:149
+msgid "Text line with icon"
+msgstr ""
+
+#: inc/settings.php:150
+msgid "Funny note"
+msgstr ""
+
+#: inc/settings.php:152
+msgid "Show an example"
+msgstr ""
+
+#: inc/settings.php:152
+msgid "Preview"
+msgstr ""
+
+#: inc/settings.php:157
+msgid "Watermark position"
+msgstr ""
+
+#: inc/settings.php:165
+msgid "Top Left"
+msgstr ""
+
+#: inc/settings.php:170
+msgid "Top Right"
+msgstr ""
+
+#: inc/settings.php:176
+msgid "Middle Left"
+msgstr ""
+
+#: inc/settings.php:180 inc/settings.php:256
+msgid "Centered"
+msgstr ""
+
+#: inc/settings.php:184
+msgid "Middle Right"
+msgstr ""
+
+#: inc/settings.php:190
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/settings.php:195
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/settings.php:202
+msgid "Cover Image"
+msgstr ""
+
+#: inc/settings.php:208
+msgid "Watermark transparency"
+msgstr ""
+
+#: inc/settings.php:214
+msgid "Transparency from 0% (opaque) to 100% (invisible)."
+msgstr ""
+
+#: inc/settings.php:219
+msgid "Watermark text"
+msgstr ""
+
+#: inc/settings.php:227
+msgid "Text options"
+msgstr ""
+
+#: inc/settings.php:232
+msgid "Font size"
+msgstr ""
+
+#: inc/settings.php:235 inc/settings.php:302
+msgid "pixels"
+msgstr ""
+
+#: inc/settings.php:239
+msgid "Text color"
+msgstr ""
+
+#: inc/settings.php:249
+msgid "Outlined text options"
+msgstr ""
+
+#: inc/settings.php:253
+msgid "Alignment"
+msgstr ""
+
+#: inc/settings.php:255
+msgid "Left"
+msgstr ""
+
+#: inc/settings.php:257
+msgid "Right"
+msgstr ""
+
+#: inc/settings.php:262
+msgid "Weight "
+msgstr ""
+
+#: inc/settings.php:264
+msgid "Normal"
+msgstr ""
+
+#: inc/settings.php:265
+msgid "Bold"
+msgstr ""
+
+#: inc/settings.php:270
+msgid "Outline color "
+msgstr ""
+
+#: inc/settings.php:278
+msgid "Text line with icon options"
+msgstr ""
+
+#: inc/settings.php:282
+msgid "Icon position"
+msgstr ""
+
+#: inc/settings.php:284
+msgid "Below text"
+msgstr ""
+
+#: inc/settings.php:285
+msgid "Above text"
+msgstr ""
+
+#: inc/settings.php:286
+msgid "Left of the text"
+msgstr ""
+
+#: inc/settings.php:287
+msgid "Right of the text"
+msgstr ""
+
+#: inc/settings.php:292
+msgid "Icon"
+msgstr ""
+
+#: inc/settings.php:299
+msgid "Icon size"
+msgstr ""
+
+#: inc/settings.php:306
+msgid "Border color "
+msgstr ""
+
+#: inc/settings.php:315
+msgid "Funny note options"
+msgstr ""
+
+#: inc/settings.php:319
+msgid "Size"
+msgstr ""
+
+#: inc/settings.php:321
+msgid "Large"
+msgstr ""
+
+#: inc/settings.php:322
+msgid "Small"
+msgstr ""
+
+#: inc/settings.php:327
+msgid "Type"
+msgstr ""
+
+#: inc/settings.php:329
+msgid "Down Arrow"
+msgstr ""
+
+#: inc/settings.php:330
+msgid "Comics Balloon"
+msgstr ""
+
+#: inc/settings.php:331
+msgid "Pinned Paper"
+msgstr ""
+
+#: inc/settings.php:332
+msgid "Sticky Note"
+msgstr ""
+
+#: inc/settings.php:333
+msgid "Taped Paper"
+msgstr ""
+
+#: inc/settings.php:334
+msgid "Thought Balloon"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Lazyest Watermark 0.3.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/settings.php:367
+msgid "Lazyest Watermark"
+msgstr ""
+
+#: inc/settings.php:370
+msgid "Version"
+msgstr ""
+
+#: inc/settings.php:374
+msgid "Back to Lazyest Gallery Settings"
+msgstr ""
+
+#: inc/settings.php:378
+msgid "Save Changes"
+msgstr ""
+
+#: lazyest-watermark.php:128
+msgid "Watermark settings saved"
+msgstr ""
+
+#: lazyest-watermark.php:153
+msgid "Watermark Options"
+msgstr ""
+
+#: lazyest-watermark.php:154
+msgid "You have just installed Lazyest Watermark"
+msgstr ""
+
+#: lazyest-watermark.php:155
+msgid "Use this button to make your marks"
+msgstr ""
+
+#: lazyest-watermark.php:170
+msgid "Add a watermark to your images"
+msgstr ""
+
+#: lazyest-watermark.php:208
+msgid "Add Watermark"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://brimosoft.nl/lazyest/plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Watermarks to Images in Lazyest Gallery"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brimosoft"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://brimosoft.nl"
+msgstr ""
